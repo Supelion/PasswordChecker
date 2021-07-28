@@ -6,11 +6,14 @@ qwerty
 12345
 1234
 111111
+shaheer
 1234567
 dragon
 123123
 baseball
 abc123
+lmfao
+lmao
 football
 monkey
 letmein
@@ -35,6 +38,8 @@ qazwsx
 123qwe
 killer
 trustno1
+xd
+iraq
 jordan
 jennifer
 zxcvbnm
@@ -44,6 +49,7 @@ buster
 soccer
 harley
 batman
+pakistan
 andrew
 tigger
 sunshine
@@ -58,8 +64,11 @@ ranger
 daniel
 starwars
 klaster
+melon
 112233
+ashir
 george
+raspberry
 asshole
 computer
 michelle
@@ -1018,6 +1027,7 @@ chronic
 alabama
 airplane
 22222222
+wtf
 1976
 1029384756
 01011
@@ -1142,6 +1152,7 @@ fireball
 apache
 fuckit
 blonde
+mcdonalds
 bigmac
 abcd
 morris
@@ -1326,6 +1337,7 @@ powers
 polaris
 montreal
 angelina
+rapunzel
 77777
 tickle
 regina
@@ -6026,6 +6038,7 @@ guyver
 gunther
 Good123654
 ghost1
+macbook
 getout
 gameboy
 format
